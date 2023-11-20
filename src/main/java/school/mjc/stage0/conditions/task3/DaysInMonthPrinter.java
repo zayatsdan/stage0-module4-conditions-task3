@@ -13,5 +13,8 @@ public class DaysInMonthPrinter {
                 System.out.println("31");
             }
         }
+         else {
+            System.out.println("wrong number!");
+        }
     }
 }
